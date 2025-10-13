@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Mahmoud</h1>
-<h3 align="center">A frontend developer from Egypt</h3>
+<h3 align="center">A FrontEnd Developer from Egypt🇪🇬</h3>
 
-- 🌱 I’m currently learning **React.js with Next.js**
+- 🌱 I’m currently Using **React.js with Next.js**
 
 - 👨‍💻 All of my projects are available at [https://portofolio-psi-sooty.vercel.app](https://portofolio-psi-sooty.vercel.app)
 
