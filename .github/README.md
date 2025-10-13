@@ -4,8 +4,6 @@
 ---
 
 # 💫 About Me:
-I am a passionate Web Developer dedicated to building beautiful and functional web applications. With a solid foundation in multiple programming languages and frameworks, I thrive on creating seamless digital experiences that engage users.
-
 🔭 I’m currently working on Netflix Clone<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Web Development<br>📩 123aliactionx5@gmail.com
 
 
