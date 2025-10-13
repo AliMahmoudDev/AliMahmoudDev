@@ -21,7 +21,7 @@ I am a passionate FrontEnd Developer dedicated to building beautiful and functio
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](#)
 
 ## 💼 Projects
-- [🌐 Portfolio](https://portofolio-psi-sooty.vercel.app/) – My React & Next.js work (find all projects & skills here!)
+- [🌐 Portfolio](https://portofolio-psi-sooty.vercel.app/) – (find all projects & skills here!)
 
 ## 📞 Contact Me
 
@@ -35,6 +35,3 @@ I am a passionate FrontEnd Developer dedicated to building beautiful and functio
 ## 🎉 Fun Fact
 When I'm not coding, I love learning new tech, exploring new web trends, and sometimes playing online games!  
 Let’s connect and share what inspires you. 😄
-
-### 📸 Profile Photo Coming Soon!
-Stay tuned for my profile photo to make this space even more personal!
