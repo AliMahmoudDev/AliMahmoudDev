@@ -21,7 +21,7 @@
 
 ## 📞 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ali-mahmmoud-b0b929354)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ali-mahmoud-34923b3a6/)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/@a_a909a)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/ali.mahmmoud.ali?mibextid=zbwkwl)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:123aliactionx5@gmail.com)
