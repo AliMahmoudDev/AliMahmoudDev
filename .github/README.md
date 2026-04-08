@@ -17,7 +17,7 @@
 
 ## 💼 Portofolio
 
-- [🌐 Portfolio](https://portofolio-psi-sooty.vercel.app/) – (find all projects & skills here!)
+- [🌐 Portfolio](https://alimahmoud-dev.vercel.app/) – (find all projects & skills here!)
 
 ## 📞 Contact Me
 
